@@ -3,6 +3,7 @@ version: 0.0.4
 description: An event timeline view allows users to visualize the occurrence and
   sequence of events over time and understanding of future occurrences.
 homepage: https://jarvistechnolabs.com/
+repository: https://github.com/Jarvis-Technolabs/event_timeline_view
 environment:
   sdk: '>=2.18.6 <3.0.0'
 
