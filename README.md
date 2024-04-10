@@ -16,7 +16,7 @@ To use this timeline view component in your project, follow these steps:
 
     ```
    dependencies:
-    event_timeline_view: ^0.0.3
+    event_timeline_view: ^0.0.4
     ```
 
 2. Import it:
@@ -24,3 +24,7 @@ To use this timeline view component in your project, follow these steps:
     ```
     import 'package:timeline_view/features/timeline_view/presentation/timeline_view_page.dart';
     ```
+   ## **ScreenShots**
+
+<a href="https://raw.githubusercontent.com/Jarvis-Technolabs/event_timeline_view/assets/1.png"><img src="https://raw.githubusercontent.com/Jarvis-Technolabs/event_timeline_view/assets/1.png" alt=" ScreenShot 1" height="310"/>
+<a href="https://raw.githubusercontent.com/Jarvis-Technolabs/event_timeline_view/assets/2.png"><img src="https://raw.githubusercontent.com/Jarvis-Technolabs/event_timeline_view/assets/2.png" alt=" ScreenShot 2" height="310"/>

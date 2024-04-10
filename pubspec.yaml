@@ -1,5 +1,5 @@
 name: event_timeline_view
-version: 0.0.3
+version: 0.0.4
 description: An event timeline view allows users to visualize the occurrence and
   sequence of events over time and understanding of future occurrences.
 homepage: https://jarvistechnolabs.com/
