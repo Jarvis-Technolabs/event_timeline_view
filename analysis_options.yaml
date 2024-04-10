@@ -1,5 +1,0 @@
-analyzer: 1.5.0
-
-linter:
-  rules:
-    sort_pub_dependencies: true
